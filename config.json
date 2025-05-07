@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "spotify": {
+    "clientId": "YOUR_SPOTIFY_CLIENT_ID",
+    "clientSecret": "YOUR_SPOTIFY_CLIENT_SECRET"
+  }
+}
